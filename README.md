@@ -1,6 +1,6 @@
 # Term Deposit Calculator
 
-Ferocia Take Home Code exercise - Build a simple Term Deposit Calculator
+Take Home Code exercise - Build a simple Term Deposit Calculator
 
 ## To run the project:
 
